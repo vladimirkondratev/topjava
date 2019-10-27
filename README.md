@@ -1,4 +1,4 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9b6392134fe846498474a328ff626f94)](https://www.codacy.com/manual/vladimirkondratev/topjava)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/416d5f6075f147088235815fc7b19f8a)](https://www.codacy.com/manual/vladimirkondratev/topjava)
 [![Build Status](https://travis-ci.org/vladimirkondratev/topjava.svg?branch=master)](https://travis-ci.org/vladimirkondratev/topjava)
 
 Java Enterprise Online Project 
